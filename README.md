@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/codemonk08_" target="blank"><img src="https://img.shields.io/twitter/follow/codemonk08_?logo=twitter&style=for-the-badge" alt="codemonk08_" /></a> </p>
 
-- 🔭 I’m currently working with [Crio.Do as a User Trial Intern](https://www.crio.do/)
+- 🔭 I’m currently working with [Crio.Do](https://www.crio.do/) as a User Trial Intern
 
-- 🔭 I have worked with [Innovaccer as a SDE Intern](https://innovaccer.com/)
+- 🔭 I have worked with [Innovaccer](https://innovaccer.com/) as a SDE Intern
 
-- 🔭 I have worked with [PyBites as an Open Source Developer](https://github.com/PyBites-Open-Source/questionnaire-api)
+- 🔭 I have worked with [PyBites](https://github.com/PyBites-Open-Source/questionnaire-api) as an Open Source Developer
 
 - 🌱 I’m currently learning **React.js**
 
