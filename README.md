@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working with [Crio.Do as a User Trial Intern](https://www.crio.do/)
 
-- 🌱 I’m currently learning **React.js**
-
 - 🔭 I have worked with [Innovaccer as a SDE Intern](https://innovaccer.com/)
 
 - 🔭 I have worked with [PyBites as an Open Source Developer](https://github.com/PyBites-Open-Source/questionnaire-api)
+
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 Find me on LinkedIn [https://www.linkedin.com/in/code-monk08/](https://www.linkedin.com/in/code-monk08/)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mayank.singh081997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KFrWBTHO5dlHXcP-TZhlsuUhV4SvIqBo/view](https://drive.google.com/file/d/1KFrWBTHO5dlHXcP-TZhlsuUhV4SvIqBo/view)
+- 📄 Find my updated [Resume](https://drive.google.com/file/d/1KFrWBTHO5dlHXcP-TZhlsuUhV4SvIqBo/view)
 
 - ⚡ Fun fact **I love Pink Floyd !**
 
