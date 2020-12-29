@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/codemonk08_" target="blank"><img src="https://img.shields.io/twitter/follow/codemonk08_?logo=twitter&style=for-the-badge" alt="codemonk08_" /></a> </p>
 
-- 🔭 I’m currently working with [Crio.Do](https://www.crio.do/) as a User Trial Intern
+- 📜 I’m currently working with [Crio.Do](https://www.crio.do/) as a User Trial Intern
 
-- 🔭 I have worked with [Innovaccer](https://innovaccer.com/) as a SDE Intern
+- 🏥 I've worked with [Innovaccer](https://innovaccer.com/) as a SDE Intern
 
-- 🔭 I have worked with [PyBites](https://github.com/PyBites-Open-Source/questionnaire-api) as an Open Source Developer
+- 🔭 I've worked with [PyBites](https://codechalleng.es/) as an Open Source Developer in the project [questionnare-api](https://github.com/PyBites-Open-Source/questionnaire-api)
+
+- 🎮 I've worked with [KWoC](https://kwoc.kossiitkgp.org/) as an Open Source Mentor with my project [connect4](https://github.com/code-monk08/connect4) and helped 30+ students get into Open Source development.
+
+- 🎨 I've worked as a designer at [OSDC/design](https://github.com/osdc/design) for the session 2019-2020.
 
 - 🌱 I’m currently learning **React.js**
 
