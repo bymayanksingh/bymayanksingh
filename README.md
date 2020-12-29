@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-monk08&label=Profile%20views&color=0e75b6&style=flat" alt="code-monk08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-monk08" alt="code-monk08" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/codemonk08_" target="blank"><img src="https://img.shields.io/twitter/follow/codemonk08_?logo=twitter&style=for-the-badge" alt="codemonk08_" /></a> </p>
 
 - 🔭 I’m currently working with [Crio.Do](https://www.crio.do/) as a User Trial Intern
