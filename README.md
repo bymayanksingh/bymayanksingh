@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 Find me on LinkedIn [https://www.linkedin.com/in/code-monk08/](https://www.linkedin.com/in/code-monk08/)
+- 👨‍💻 Find me on [LinkedIn/code-monk08](https://www.linkedin.com/in/code-monk08/)
 
 - 💬 Ask me about **Python, JavaScript, Node, Django, C++, React**
 
