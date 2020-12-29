@@ -19,7 +19,7 @@
 
 - 👨‍💻 Find me on LinkedIn [https://www.linkedin.com/in/code-monk08/](https://www.linkedin.com/in/code-monk08/)
 
-- 💬 Ask me about **Python, JavaScript, Node, Django, C++**
+- 💬 Ask me about **Python, JavaScript, Node, Django, C++, React**
 
 - 📫 How to reach me **mayank.singh081997@gmail.com**
 
