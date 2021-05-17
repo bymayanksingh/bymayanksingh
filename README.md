@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/codemonk08_" target="blank"><img src="https://img.shields.io/twitter/follow/codemonk08_?logo=twitter&style=for-the-badge" alt="codemonk08_" /></a> </p>
 
 
-- 📜 I’m currently working with [Crio.Do](https://www.crio.do/) as a Technical Intern
+- 📜 I've worked with [Crio.Do](https://www.crio.do/) as a Technical Intern
 
 - 🏥 I've worked with [Innovaccer](https://innovaccer.com/) as a SDE Intern
 
