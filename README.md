@@ -1,24 +1,24 @@
 <h1 align="center">Hey 👋 I'm Mayank Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-monk08&label=Profile%20views&color=0e75b6&style=flat" alt="code-monk08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksingh081&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksingh081" /> </p>
 
-<p align="left"> <a href="https://twitter.com/codemonk08_" target="blank"><img src="https://img.shields.io/twitter/follow/codemonk08_?logo=twitter&style=for-the-badge" alt="codemonk08_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mayanksingh081" target="blank"><img src="https://img.shields.io/twitter/follow/mayanksingh081?logo=twitter&style=for-the-badge" alt="mayanksingh081" /></a> </p>
 
 
-- 📜 I've worked with [Crio.Do](https://www.crio.do/) as a Technical Intern
+- 📜 I've worked with [Crio.Do](https://www.crio.do/) as a Technical Intern & Software Development Extern @ [Crio/Jumbotail](https://www.crio.do/crio-winter-of-doing/) as a part of Crio Winter of Doing
 
 - 🏥 I've worked with [Innovaccer](https://innovaccer.com/) as a SDE Intern
 
 - 🔭 I've worked with [PyBites](https://codechalleng.es/) as an Open Source Developer in the project [questionnare-api](https://github.com/PyBites-Open-Source/questionnaire-api)
 
-- 🎮 I've worked with [KWoC](https://kwoc.kossiitkgp.org/) as an Open Source Mentor with my project [connect4](https://github.com/code-monk08/connect4) and helped 30+ students get into Open Source development.
+- 🎮 I've worked with [KWoC](https://kwoc.kossiitkgp.org/) as an Open Source Mentor with my project [connect4](https://github.com/mayanksingh081/connect4) and helped 30+ students get into Open Source development.
 
 - 🎨 I've worked as a designer at [OSDC/design](https://github.com/osdc/design) for the session 2019-2020.
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 Find me on [LinkedIn/code-monk08](https://www.linkedin.com/in/code-monk08/)
+- 👨‍💻 Find me on [LinkedIn/mayanksingh081](https://www.linkedin.com/in/mayanksingh081/)
 
 - 💬 Ask me about **Python, JavaScript, Node, Django, C++, React**
 
@@ -30,11 +30,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codemonk08_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codemonk08_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/code-monk08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="code-monk08" height="30" width="40" /></a>
-<a href="https://www.instagram.com/codemonk08_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/codemonk08_/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/codemonk08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/codemonk08" height="30" width="40" /></a>
-<a href="https://leetcode.com/codemonk08_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/codemonk08_" height="30" width="40" /></a>
+<a href="https://twitter.com/mayanksingh081" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mayanksingh081" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayanksingh081" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayanksingh081" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mayanksingh081/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/mayanksingh081/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mayanksingh08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mayanksingh08" height="30" width="40" /></a>
+<a href="https://leetcode.com/mayanksingh081" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/mayanksingh081" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,4 +60,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-monk08&show_icons=true&locale=en&layout=compact" alt="code-monk08" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayanksingh081&show_icons=true&locale=en&layout=compact" alt="mayanksingh081" /></p>
