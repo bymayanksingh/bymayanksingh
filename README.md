@@ -6,25 +6,25 @@
 <p align="left"> <a href="https://twitter.com/mayanksingh081" target="blank"><img src="https://img.shields.io/twitter/follow/mayanksingh081?logo=twitter&style=for-the-badge" alt="mayanksingh081" /></a> </p>
 
 
-- 📜 I've worked with [Crio.Do](https://www.crio.do/) as a Technical Intern & Software Development Extern @ [Crio/Jumbotail](https://www.crio.do/crio-winter-of-doing/) as a part of Crio Winter of Doing
+- 📜  I've worked with [Crio.Do](https://www.crio.do/) as a Technical Intern & Software Development Extern @ [Crio/Jumbotail](https://www.crio.do/crio-winter-of-doing/) as a part of Crio Winter of Doing
 
-- 🏥 I've worked with [Innovaccer](https://innovaccer.com/) as a SDE Intern
+- 🏥  I've worked with [Innovaccer](https://innovaccer.com/) as a SDE Intern
 
-- 🔭 I've worked with [PyBites](https://codechalleng.es/) as an Open Source Developer in the project [questionnare-api](https://github.com/PyBites-Open-Source/questionnaire-api)
+- 🔭  I've worked with [PyBites](https://codechalleng.es/) as an Open Source Developer in the project [questionnare-api](https://github.com/PyBites-Open-Source/questionnaire-api)
 
-- 🎮 I've worked with [KWoC](https://kwoc.kossiitkgp.org/) as an Open Source Mentor with my project [connect4](https://github.com/mayanksingh081/connect4) and helped 30+ students get into Open Source development.
+- 🎮  I've worked with [KWoC](https://kwoc.kossiitkgp.org/) as an Open Source Mentor with my project [connect4](https://github.com/mayanksingh081/connect4) and helped 30+ students get into Open Source development.
 
-- 🎨 I've worked as a designer at [OSDC/design](https://github.com/osdc/design) for the session 2019-2020.
+- 🎨  I've worked as a designer at [OSDC/design](https://github.com/osdc/design) for the session 2019-2020.
 
-- 🌱 I’m currently learning **React.js**
+- 🌱  I’m currently learning **React.js**
 
-- 👨‍💻 Find me on [LinkedIn/mayanksingh081](https://www.linkedin.com/in/mayanksingh081/)
+- 👨‍💻  Find me on [LinkedIn/mayanksingh081](https://www.linkedin.com/in/mayanksingh081/)
 
-- 💬 Ask me about **Python, JavaScript, Node, Django, C++, React**
+- 💬  Ask me about **Python, JavaScript, Node, Django, C++, React**
 
-- 📫 How to reach me **mayank.singh081997@gmail.com**
+- 📫  How to reach me **mayank.singh081997@gmail.com**
 
-- 📄 Find my updated [Resume](https://drive.google.com/file/d/1KFrWBTHO5dlHXcP-TZhlsuUhV4SvIqBo/view)
+- 📄  Find my updated [Resume](https://drive.google.com/file/d/1KFrWBTHO5dlHXcP-TZhlsuUhV4SvIqBo/view)
 
 - ⚡ Fun fact **I love Pink Floyd !**
 
