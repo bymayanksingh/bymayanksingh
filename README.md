@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Mayank Singh</h1>
-<h3 align="center">Software Engineer 👨‍💻 !</h3>
+<h3 align="center">Software Engineer @ IDfy !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksingh081&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksingh081" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 🎨  I've worked as a designer at [OSDC/design](https://github.com/osdc/design) for the session 2019-2020.
 
-- 🌱  I’m currently learning **React.js**
+- 🌱  I’m currently learning aboud **Cloud**
 
 - 👨‍💻  Find me on [LinkedIn/mayanksingh081](https://www.linkedin.com/in/mayanksingh081/)
 
