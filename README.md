@@ -16,7 +16,7 @@
 
 - 👨‍💻  Find me on [linkedin/bymayanksingh](https://www.linkedin.com/in/bymayanksingh/)
 
-- 💬  Ask me about **Python, Elixir, JavaScript, Node, Django, C++, React**
+- 💬  Ask me about **Python, Elixir, JavaScript, Node, Django, C++, React, Phoenix Framework**
 
 - 📫  How to reach me **mayank.singh081997@gmail.com**
 
