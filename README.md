@@ -27,19 +27,14 @@
 <h3 align="left">Connect with me:</h3>
 
 
-- 
 <a href="https://twitter.com/bymayanksingh" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bymayanksingh" height="15" width="20" /> Twitter</a>
 
-- 
 <a href="https://linkedin.com/in/bymayanksingh" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bymayanksingh" height="15" width="20" /> Linkedin</a>
 
-- 
 <a href="https://www.instagram.com/mayanksingh081/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/mayanksingh081/" height="15" width="20" /> Instagram</a>
 
-- 
 <a href="https://www.hackerrank.com/mayanksingh01" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mayanksingh01" height="15" width="20" /> Hackerrank</a>
 
-- 
 <a href="https://leetcode.com/bymayanksingh/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/bymayanksingh/" height="15" width="20" /> Leetcode</a>
 
 <h3 align="left">Languages and Tools:</h3>
