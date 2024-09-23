@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋 I'm Mayank Singh</h1>
-<h3 align="center">Senior Software Engineer @ IDfy (3+ years experienced)!</h3>
+<h3 align="center"> Currently Building Edra Labs (3.5+ years experienced)!</h3>
 
+- 📜  I've worked with [IDfy](https://www.idfy.com/) as a Senior Software Engineer to solve the problem of fraud detection and digital KYC.
 
 - 📜  I've worked with [Crio.Do](https://www.crio.do/) as a Technical Intern & Software Development Extern @ [Crio/Jumbotail](https://www.crio.do/crio-winter-of-doing/) as a part of Crio Winter of Doing
 
