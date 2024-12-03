@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋 I'm Mayank Singh</h1>
 <h3 align="center"> Currently Building Edra Labs (3.5+ years experienced)!</h3>
 
+- 📜  I am curently working with Edra Labs, which is a stealth startup in Mumbai, India.
+
 - 📜  I recently built Palettes & Hues 🎨 ([palettes.fyi](http://palettes.fyi/)) a powerful Chrome extension that instantly identifies and extracts the most dominant colors from any webpage’s visible area.
 
 - 📜  I've worked with [IDfy](https://www.idfy.com/) as a Senior Software Engineer to solve the problem of fraud detection and digital KYC.
