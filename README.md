@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋 I'm Mayank Singh</h1>
 <h3 align="center">Currently Building Edra Labs (3.5+ years experienced)!</h3>
 
-<h2 align="center">
-  Check out my website 🌐 <a href="https://bymayanksingh.com/" target="_blank" style="color: #0078D7; text-decoration: none; font-weight: bold;">bymayanksingh.com</a>
-</h2>
+<h3 align="center">
+  Check out my website 🌐 <a href="https://bymayanksingh.com/" target="_blank" style="color: #0078D7; text-decoration: none; font-weight: bold;">https://bymayanksingh.com</a>
+</h3>
 
 - 📜  I am currently working with Edra Labs, which is a stealth startup in Mumbai, India.
 
