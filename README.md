@@ -47,9 +47,6 @@
   <a href="https://www.hackerrank.com/mayanksingh01" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://leetcode.com/bymayanksingh/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
