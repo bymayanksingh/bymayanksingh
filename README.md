@@ -8,6 +8,8 @@
 
 - 📜  I recently built Palettes & Hues 🎨 ([palettes.fyi](http://palettes.fyi/)) — a powerful Chrome extension that instantly identifies and extracts the most dominant colors from any webpage’s visible area.
 
+- I secured first position in Q2 2023 Hackathon organised by Gitlab, [Leaderboard](https://gitlab-community.gitlab.io/community-projects/merge-request-leaderboard/?&createdAfter=2023-07-09&createdBefore=2023-07-16&mergedBefore=2023-08-16&label=Hackathon)
+
 - 📜  I've worked with [IDfy](https://www.idfy.com/) as a Senior Software Engineer to solve the problem of fraud detection and digital KYC.
 
 - 📜  I've worked with [Crio.Do](https://www.crio.do/) as a Technical Intern & Software Development Extern @ [Crio/Jumbotail](https://www.crio.do/crio-winter-of-doing/) as a part of Crio Winter of Doing.
