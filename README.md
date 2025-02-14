@@ -4,33 +4,33 @@
   Check out my website 🌐 <a href="https://bymayanksingh.com/" target="_blank" style="color: #0078D7; text-decoration: none; font-weight: bold;">https://bymayanksingh.com</a>
 </h3>
 
-- 📜  I am currently working with Edra Labs, which is a stealth startup in Mumbai, India.
+- 📜 I am currently working with Edra Labs, which is a stealth startup in Mumbai, India.
 
-- 📜  I recently built Palettes & Hues 🎨 ([palettes.fyi](http://palettes.fyi/)) — a powerful Chrome extension that instantly identifies and extracts the most dominant colors from any webpage’s visible area.
+- 📜 I recently built Palettes & Hues 🎨 ([palettes.fyi](http://palettes.fyi/)) — a powerful Chrome extension that instantly identifies and extracts the most dominant colors from any webpage’s visible area.
 
-- I secured first position in Q2 2023 Hackathon organised by Gitlab, [Leaderboard](https://gitlab-community.gitlab.io/community-projects/merge-request-leaderboard/?&createdAfter=2023-07-09&createdBefore=2023-07-16&mergedBefore=2023-08-16&label=Hackathon)
+- 📜 I secured first position in Q2 2023 Hackathon organised by Gitlab, [Leaderboard](https://gitlab-community.gitlab.io/community-projects/merge-request-leaderboard/?&createdAfter=2023-07-09&createdBefore=2023-07-16&mergedBefore=2023-08-16&label=Hackathon)
 
-- 📜  I've worked with [IDfy](https://www.idfy.com/) as a Senior Software Engineer to solve the problem of fraud detection and digital KYC.
+- 📜 I've worked with [IDfy](https://www.idfy.com/) as a Senior Software Engineer to solve the problem of fraud detection and digital KYC.
 
-- 📜  I've worked with [Crio.Do](https://www.crio.do/) as a Technical Intern & Software Development Extern @ [Crio/Jumbotail](https://www.crio.do/crio-winter-of-doing/) as a part of Crio Winter of Doing.
+- 📜 I've worked with [Crio.Do](https://www.crio.do/) as a Technical Intern & Software Development Extern @ [Crio/Jumbotail](https://www.crio.do/crio-winter-of-doing/) as a part of Crio Winter of Doing.
 
-- 🏥  I've worked with [Innovaccer](https://innovaccer.com/) as an SDE Intern.
+- 🏥 I've worked with [Innovaccer](https://innovaccer.com/) as an SDE Intern.
 
-- 🔭  I've worked with [PyBites](https://codechalleng.es/) as an Open Source Developer in the project [questionnaire-api](https://github.com/PyBites-Open-Source/questionnaire-api).
+- 🔭 I've worked with [PyBites](https://codechalleng.es/) as an Open Source Developer in the project [questionnaire-api](https://github.com/PyBites-Open-Source/questionnaire-api).
 
-- 🎮  I've worked with [KWoC](https://kwoc.kossiitkgp.org/) as an Open Source Mentor with my project [connect4](https://github.com/bymayanksingh/connect4), helping 30+ students get into Open Source development.
+- 🎮 I've worked with [KWoC](https://kwoc.kossiitkgp.org/) as an Open Source Mentor with my project [connect4](https://github.com/bymayanksingh/connect4), helping 30+ students get into Open Source development.
 
-- 🎨  I've worked as a designer at [OSDC/design](https://github.com/osdc/design) for the session 2019-2020.
+- 🎨 I've worked as a designer at [OSDC/design](https://github.com/osdc/design) for the session 2019-2020.
 
-- 🌱  I’m currently learning about **Cloud**.
+- 🌱 I’m currently learning about **Cloud**.
 
-- 👨‍💻  Find me on [LinkedIn](https://www.linkedin.com/in/bymayanksingh/).
+- 👨‍💻 Find me on [LinkedIn](https://www.linkedin.com/in/bymayanksingh/).
 
-- 💬  Ask me about **Python, Elixir, JavaScript, Node, Django, C++, React, Phoenix Framework**.
+- 💬 Ask me about **Python, Elixir, JavaScript, Node, Django, C++, React, Phoenix Framework**.
 
-- 📫  Reach me at **mayank.singh081997@gmail.com**.
+- 📫 Reach me at **mayank.singh081997@gmail.com**.
 
-- 📄  Find my updated [Resume](https://drive.google.com/file/d/1KFrWBTHO5dlHXcP-TZhlsuUhV4SvIqBo/view).
+- 📄 Find my updated [Resume](https://drive.google.com/file/d/1KFrWBTHO5dlHXcP-TZhlsuUhV4SvIqBo/view).
 
 - ⚡ Fun fact: **I love Pink Floyd!**
 
