@@ -6,7 +6,7 @@
 
 - 📜 I am currently working with Edra Labs, which is a stealth startup in Mumbai, India.
 
-- 📜 I recently built Palettes & Hues 🎨 ([extension link]([http://palettes.fyi/](https://chromewebstore.google.com/detail/palettes-hues-%F0%9F%8E%A8/miokoikjlpbhhfepkneagdjmgakendep)) — a powerful Chrome extension that instantly identifies and extracts the most dominant colors from any webpage’s visible area.
+- 📜 I recently built Palettes & Hues 🎨 ([extension link](https://chromewebstore.google.com/detail/palettes-hues-%F0%9F%8E%A8/miokoikjlpbhhfepkneagdjmgakendep) — a powerful Chrome extension that instantly identifies and extracts the most dominant colors from any webpage’s visible area.
 
 - 📜 I secured first position in Q2 2023 Hackathon organised by Gitlab, [Leaderboard](https://gitlab-community.gitlab.io/community-projects/merge-request-leaderboard/?&createdAfter=2023-07-09&createdBefore=2023-07-16&mergedBefore=2023-08-16&label=Hackathon)
 
