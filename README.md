@@ -1,9 +1,5 @@
 <h1 align="center">Hey 👋 I'm Mayank Singh</h1>
 
-<h3 align="center">
-  Check out my website 🌐 <a href="https://bymayanksingh.com/" target="_blank" style="color: #0078D7; text-decoration: none; font-weight: bold;">https://bymayanksingh.com</a>
-</h3>
-
 - 📜 I am currently working with Edra Labs, which is a stealth startup in Mumbai, India.
 
 - 📜 I recently secured first position in 2025 WTF Hackathon organised by Edra Labs, where I build a Formula 1 insights platform.
