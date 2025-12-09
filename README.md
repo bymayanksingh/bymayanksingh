@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Mayank Singh</h1>
 
-- 📜 I am currently working with HG Insights, India in a Hyrbid setup.
+- 📜 I am currently working with HG Insights, India in a hyrbid setup.
 
 - 📜 I used to work with Edra Labs, which is a stealth startup in Mumbai, India.
 
